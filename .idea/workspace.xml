@@ -18,6 +18,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Users\anilt\Downloads\chromedriver_win32\chromedriver.exe" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -42,10 +45,10 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/anilt/Downloads/chromedriver_win32/chromedriver.exe&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.Jenkins&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.api_tests (1)">
+  <component name="RunManager" selected="Python tests.Python tests for api_tests.APITestCase.test_access_token_endpoint">
     <configuration name="api_tests (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python  API TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,8 +133,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for api_tests.APITestCase.test_access_token_endpoint" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="python  API TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;api_tests.APITestCase.test_access_token_endpoint&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for api_tests.APITestCase.test_api_endpoints" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="python  API TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;api_tests.APITestCase.test_api_endpoints&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for api_tests.APITestCase.test_access_token_endpoint" />
+        <item itemvalue="Python tests.Python tests for api_tests.APITestCase.test_api_endpoints" />
         <item itemvalue="Python.api_tests (1)" />
         <item itemvalue="Python.fake_module1_for_env_test" />
       </list>
